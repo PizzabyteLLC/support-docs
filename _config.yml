@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Pizzabyte Support Docs
+description: Pizzabyte Support Documentation and Procedures
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://docs.pizzabyte.net/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links: # remove if you don't want this link to appear on your pages
+  Pizzabyte Panel: https://panel.pizzabyte.net/
+  Pizzabyte Support: https://support.pizzabyte.net/
