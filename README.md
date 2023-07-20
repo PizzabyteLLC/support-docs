@@ -102,7 +102,7 @@ You might want to maintain your docs in an existing project repo. Instead of cre
 
 2.  Create a `docs` directory at your project root and copy all remaining template files into this directory.
 
-### Modify the Github Actions worklow
+### Modify the Github Actions workflow
 
 The Github Actions workflow that builds and deploys your site to Github Pages is defined by the `pages.yml` file. You'll need to edit this file to that so that your build and deploy steps look to your `docs` directory, rather than the project root.
 
