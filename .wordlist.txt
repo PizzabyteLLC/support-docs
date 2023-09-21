@@ -9,3 +9,5 @@ Bundler
 workflow
 param
 Github
+Minecraft
+Terraria
