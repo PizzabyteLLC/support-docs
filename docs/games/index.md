@@ -8,4 +8,4 @@ nav_order: 2
 
 # Games
 
-TBD
+This page is a placeholder for the Games documentation.

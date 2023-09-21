@@ -8,4 +8,4 @@ nav_order: 2
 
 # Panel
 
-TBD
+This page is a placeholder for the Panel documentation.

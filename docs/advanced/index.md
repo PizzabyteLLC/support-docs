@@ -8,4 +8,4 @@ nav_order: 4
 
 # Advanced
 
-TBD
+This page is a placeholder for the Advanced documentation.
