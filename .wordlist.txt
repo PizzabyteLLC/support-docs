@@ -11,3 +11,7 @@ param
 Github
 Minecraft
 Terraria
+nav
+toc
+pizzabyte
+Pizzabyte
