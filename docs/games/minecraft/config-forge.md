@@ -25,7 +25,7 @@ In this support article we will be running through the processes to properly con
 >
 > RLCraft _requires_ Java 8 be installed to run. You can change the version of Java a server is using by setting the Docker Image dropdown to the required version.
 
-![Startup settings fully configured for RLCraft.](/assets/images/games/minecraft/forge-settings.png)
+![Startup settings fully configured for RLCraft.](/docs/games/minecraft/images/config-mc-forge-server.png)
 
 5. Next go to the "Settings" tab and press the "Reinstall Server" button
     - This will trigger our systems to reinstall your server jar as the correct Forge version.
