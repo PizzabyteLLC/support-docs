@@ -2,6 +2,7 @@
 title: Configuring a Minecraft Forge Server
 layout: default
 parent: Minecraft
+grand_parent: Games
 nav_order: 1
 ---
 
